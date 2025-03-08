@@ -1,0 +1,364 @@
+ClienteID,Nombre,Sexo,ingresos,PromVisit,Edad,Sauna,Masaje,Hidro,Yoga,Tienda
+Abbi Boyda_Spa Escalon,Abbi Boyda,False,1803.3399999999999,3.6299999999999999,62,True,True,False,True,Spa Escalon
+Addy Dillinton_Spa Escalon,Addy Dillinton,False,1167.5799999999999,1.5,43,False,False,False,True,Spa Escalon
+Adriano Bellison_Spa Santa Tecla,Adriano Bellison,False,1874.1700000000001,2.4399999999999999,55,True,True,False,False,Spa Santa Tecla
+Aeriell Gligori_Spa Escalon,Aeriell Gligori,False,608.07000000000005,1.6899999999999999,50,False,True,True,True,Spa Escalon
+Aggi Conningham_Spa Centro,Aggi Conningham,False,2268.5700000000002,3.5299999999999998,33,True,True,False,False,Spa Centro
+Alford Pieroni_Spa Santa Tecla,Alford Pieroni,True,1155.8299999999999,1.5900000000000001,39,False,True,False,False,Spa Santa Tecla
+Alfreda Pere_Spa Escalon,Alfreda Pere,True,2493.1500000000001,1.1799999999999999,51,True,False,False,False,Spa Escalon
+Alina Edson_Spa Escalon,Alina Edson,True,400.33999999999997,2.8999999999999999,38,True,False,True,True,Spa Escalon
+Almeria O'Kielt_Spa Santa Tecla,Almeria O'Kielt,False,647.63999999999999,2.9500000000000002,48,False,False,False,False,Spa Santa Tecla
+Amabel Halhead_Spa Santa Tecla,Amabel Halhead,False,1487.8199999999999,2.2599999999999998,26,False,False,False,True,Spa Santa Tecla
+Amanda Apfler_Spa Santa Tecla,Amanda Apfler,False,913.25999999999999,1.6699999999999999,39,True,False,False,False,Spa Santa Tecla
+Ame Crum_Spa Escalon,Ame Crum,True,2999.1999999999998,3.2799999999999998,30,True,True,True,True,Spa Escalon
+Amil Issitt_Spa Escalon,Amil Issitt,True,2172.5999999999999,1.47,27,False,True,False,True,Spa Escalon
+Anabella Bugdell_Spa Santa Tecla,Anabella Bugdell,False,786.44000000000005,2.5,22,False,False,True,True,Spa Santa Tecla
+Angelita Jaquemar_Spa Escalon,Angelita Jaquemar,True,1458.8399999999999,2.8199999999999998,36,True,True,False,True,Spa Escalon
+Angelle Ewence_Spa Santa Tecla,Angelle Ewence,False,256.41000000000003,3.3999999999999999,36,False,False,False,False,Spa Santa Tecla
+Annabell O'Luney_Spa Escalon,Annabell O'Luney,False,2354.5500000000002,3.1499999999999999,33,False,True,True,False,Spa Escalon
+Anneliese Iwaszkiewicz_Spa Escalon,Anneliese Iwaszkiewicz,False,668.67999999999995,1.9299999999999999,25,False,True,True,False,Spa Escalon
+Anni Slora_Spa Escalon,Anni Slora,True,2213.1399999999999,1.6499999999999999,50,False,False,False,True,Spa Escalon
+Anstice Drache_Spa Santa Tecla,Anstice Drache,False,2916.96,2.5699999999999998,49,True,True,True,True,Spa Santa Tecla
+Antonin Rolfo_Spa Escalon,Antonin Rolfo,True,1862.99,2.8999999999999999,28,False,False,False,True,Spa Escalon
+Arabella Hardin_Spa Escalon,Arabella Hardin,True,1626.0699999999999,2.6400000000000001,23,True,False,True,True,Spa Escalon
+Arabelle Bale_Spa Escalon,Arabelle Bale,False,2945.9499999999998,3.4900000000000002,30,True,False,True,True,Spa Escalon
+Archy Cawthry_Spa Escalon,Archy Cawthry,True,2031.0599999999999,2.3199999999999998,34,True,True,False,True,Spa Escalon
+Arden Gillise_Spa Escalon,Arden Gillise,False,1315.22,3.0899999999999999,58,True,False,False,False,Spa Escalon
+Armin Cano_Spa Escalon,Armin Cano,False,1837.0899999999999,1.0700000000000001,32,True,False,True,True,Spa Escalon
+Arte MacCart_Spa Santa Tecla,Arte MacCart,True,1510.6800000000001,2.04,35,False,True,True,False,Spa Santa Tecla
+Artie Jahner_Spa Santa Tecla,Artie Jahner,True,1740.9000000000001,1.46,50,False,False,False,True,Spa Santa Tecla
+Arturo Cornels_Spa Escalon,Arturo Cornels,True,2331.3499999999999,1.6000000000000001,59,False,False,False,True,Spa Escalon
+Aurthur Wapplington_Spa Escalon,Aurthur Wapplington,False,802.05999999999995,2.5800000000000001,51,True,False,True,True,Spa Escalon
+Austen Shrimplin_Spa Santa Tecla,Austen Shrimplin,False,1097.77,1.98,32,True,True,False,False,Spa Santa Tecla
+Baird Lagne_Spa Escalon,Baird Lagne,False,803.75,2.1600000000000001,28,True,True,False,True,Spa Escalon
+Balduin Alcock_Spa Santa Tecla,Balduin Alcock,False,1755.4200000000001,2.0499999999999998,24,False,False,False,False,Spa Santa Tecla
+Barbaraanne Doerrling_Spa Escalon,Barbaraanne Doerrling,True,449.98000000000002,1.6000000000000001,60,True,True,False,True,Spa Escalon
+Barbey Cairney_Spa Escalon,Barbey Cairney,True,874.77999999999997,2.2200000000000002,59,True,False,True,True,Spa Escalon
+Barris Gynne_Spa Escalon,Barris Gynne,True,609.09000000000003,3.5499999999999998,25,False,False,False,False,Spa Escalon
+Bart Oty_Spa Escalon,Bart Oty,False,2343.6700000000001,3.8900000000000001,55,False,True,True,True,Spa Escalon
+Beatriz Gonning_Spa Escalon,Beatriz Gonning,True,1473.24,1.98,60,False,False,False,False,Spa Escalon
+Belinda Parkin_Spa Escalon,Belinda Parkin,True,2997.1500000000001,1.6699999999999999,31,True,True,True,False,Spa Escalon
+Bernadette Jeanequin_Spa Escalon,Bernadette Jeanequin,False,982,1.95,36,False,True,True,False,Spa Escalon
+Berti Joncic_Spa Escalon,Berti Joncic,True,763.83000000000004,3.7000000000000002,40,False,False,False,True,Spa Escalon
+Bertrando Ellicombe_Spa Santa Tecla,Bertrando Ellicombe,False,2991.3400000000001,1.1499999999999999,53,False,True,True,True,Spa Santa Tecla
+Beverley Severs_Spa Escalon,Beverley Severs,False,1275.4200000000001,1.3400000000000001,39,True,True,True,False,Spa Escalon
+Beverly Henze_Spa Escalon,Beverly Henze,True,2907.29,2.9500000000000002,49,False,True,False,True,Spa Escalon
+Bevvy Carragher_Spa Escalon,Bevvy Carragher,True,2875.3499999999999,2.3399999999999999,34,True,True,True,True,Spa Escalon
+Biddy Verchambre_Spa Escalon,Biddy Verchambre,False,2045.8499999999999,3.6200000000000001,52,False,True,False,True,Spa Escalon
+Bil Getsham_Spa Escalon,Bil Getsham,False,2280.5700000000002,2.6600000000000001,24,True,False,True,True,Spa Escalon
+Bird Traut_Spa Santa Tecla,Bird Traut,False,2479.27,3.8500000000000001,39,True,True,False,True,Spa Santa Tecla
+Blinnie Gilhespy_Spa Escalon,Blinnie Gilhespy,True,2532.52,3.6699999999999999,52,True,False,True,True,Spa Escalon
+Boigie Beedon_Spa Escalon,Boigie Beedon,False,575.52999999999997,1.1100000000000001,55,False,True,False,False,Spa Escalon
+Boigie Voak_Spa Santa Tecla,Boigie Voak,False,356.58999999999997,1.6899999999999999,25,False,True,False,True,Spa Santa Tecla
+Bowie Comusso_Spa Escalon,Bowie Comusso,False,1846.04,2.5699999999999998,50,False,True,True,False,Spa Escalon
+Brandise Dargue_Spa Escalon,Brandise Dargue,False,2786.6399999999999,1.51,63,True,False,False,False,Spa Escalon
+Brenda Pobjoy_Spa Escalon,Brenda Pobjoy,False,2219.29,1.3999999999999999,39,False,False,False,False,Spa Escalon
+Briggs Aspland_Spa Escalon,Briggs Aspland,True,1829.46,1.8400000000000001,51,True,True,False,True,Spa Escalon
+Brigit Prescote_Spa Santa Tecla,Brigit Prescote,False,1385.24,3.46,31,False,True,False,False,Spa Santa Tecla
+Brigitte Bedward_Spa Escalon,Brigitte Bedward,True,1157.5799999999999,2.4900000000000002,63,True,False,True,False,Spa Escalon
+Brina Maidstone_Spa Santa Tecla,Brina Maidstone,False,278.37,3.2999999999999998,53,False,True,False,True,Spa Santa Tecla
+Britte Campe_Spa Escalon,Britte Campe,True,1828.8599999999999,1.29,22,False,True,False,True,Spa Escalon
+Brock Morena_Spa Escalon,Brock Morena,True,1680.75,2.0299999999999998,64,False,True,False,True,Spa Escalon
+Brok Coke_Spa Escalon,Brok Coke,True,725.30999999999995,3.8500000000000001,34,True,False,True,True,Spa Escalon
+Bronnie Tommasetti_Spa Escalon,Bronnie Tommasetti,True,1543.6199999999999,3.7799999999999998,65,False,True,False,True,Spa Escalon
+Bruis Escalera_Spa Escalon,Bruis Escalera,True,2575.1199999999999,1.3899999999999999,28,True,False,False,True,Spa Escalon
+Buddy Sea_Spa Escalon,Buddy Sea,False,2316.1799999999998,1.52,45,True,True,False,False,Spa Escalon
+Buffy McAlister_Spa Escalon,Buffy McAlister,False,2338.4099999999999,2.0699999999999998,39,True,False,False,False,Spa Escalon
+Candra Fydo_Spa Santa Tecla,Candra Fydo,False,1273.46,3.48,36,True,True,False,False,Spa Santa Tecla
+Carey Billington_Spa Santa Tecla,Carey Billington,False,2454.9400000000001,3.27,25,True,True,True,True,Spa Santa Tecla
+Carmella Solway_Spa Escalon,Carmella Solway,False,1526.3299999999999,2.8799999999999999,38,True,True,True,False,Spa Escalon
+Carmine Roskelley_Spa Escalon,Carmine Roskelley,True,2424.0300000000002,1.6899999999999999,64,True,False,False,True,Spa Escalon
+Case Moyler_Spa Escalon,Case Moyler,True,2140.6300000000001,3.52,23,False,False,True,True,Spa Escalon
+Casey Jacobsson_Spa Santa Tecla,Casey Jacobsson,False,2150.73,3.1099999999999999,58,False,False,False,True,Spa Santa Tecla
+Cathie O'Reilly_Spa Centro,Cathie O'Reilly,True,2457.0900000000001,3.0499999999999998,64,True,False,False,True,Spa Centro
+Charles Giddens_Spa Santa Tecla,Charles Giddens,False,801.95000000000005,2.4399999999999999,21,False,False,False,True,Spa Santa Tecla
+Charlot Andrieux_Spa Santa Tecla,Charlot Andrieux,False,2406.9699999999998,3.3300000000000001,65,False,False,False,True,Spa Santa Tecla
+Chase McManus_Spa Centro,Chase McManus,True,1945.28,2.52,47,False,True,True,True,Spa Centro
+Chevalier Deftie_Spa Santa Tecla,Chevalier Deftie,True,2610.5999999999999,1.3200000000000001,64,False,False,False,True,Spa Santa Tecla
+Chris Brigstock_Spa Santa Tecla,Chris Brigstock,False,375.02999999999997,1.4199999999999999,55,False,True,False,False,Spa Santa Tecla
+Christean Orpyne_Spa Escalon,Christean Orpyne,False,2683.3499999999999,3.3100000000000001,54,True,False,False,True,Spa Escalon
+Christen Parmiter_Spa Santa Tecla,Christen Parmiter,False,1300.1099999999999,3.7200000000000002,55,True,False,False,True,Spa Santa Tecla
+Christoffer Ryan_Spa Santa Tecla,Christoffer Ryan,True,2677.8200000000002,2.3700000000000001,52,False,True,False,False,Spa Santa Tecla
+Chrotoem Ruegg_Spa Escalon,Chrotoem Ruegg,True,2645.3499999999999,3.23,30,True,False,False,True,Spa Escalon
+Cleopatra Briars_Spa Santa Tecla,Cleopatra Briars,False,2417.29,2.2000000000000002,25,False,True,False,False,Spa Santa Tecla
+Codi Farney_Spa Escalon,Codi Farney,True,1188.5999999999999,1,43,False,False,False,False,Spa Escalon
+Codie Johnes_Spa Escalon,Codie Johnes,False,1551.75,3.29,23,False,True,False,True,Spa Escalon
+Correy Dello_Spa Santa Tecla,Correy Dello,False,1253.4000000000001,1.9299999999999999,42,False,True,False,True,Spa Santa Tecla
+Courtnay Oxenbury_Spa Escalon,Courtnay Oxenbury,False,298.63999999999999,3.3999999999999999,50,False,False,False,True,Spa Escalon
+Cris Hewkin_Spa Escalon,Cris Hewkin,True,1979.4400000000001,3.6699999999999999,36,False,False,True,False,Spa Escalon
+Cullen Edwin_Spa Santa Tecla,Cullen Edwin,True,1842.01,2.3399999999999999,44,True,False,False,True,Spa Santa Tecla
+Dacie Purvess_Spa Escalon,Dacie Purvess,False,1311.77,2.73,32,False,False,False,False,Spa Escalon
+Damiano Masson_Spa Escalon,Damiano Masson,True,2158.23,3.2400000000000002,47,True,True,True,False,Spa Escalon
+Damita Baelde_Spa Escalon,Damita Baelde,False,1070.9200000000001,1.05,22,True,True,True,True,Spa Escalon
+Dane Bromet_Spa Escalon,Dane Bromet,True,1726.3599999999999,1.3500000000000001,25,True,True,True,False,Spa Escalon
+Danika Doble_Spa Escalon,Danika Doble,False,2771.2600000000002,3.1699999999999999,55,False,False,True,True,Spa Escalon
+Darnell Dine-Hart_Spa Centro,Darnell Dine-Hart,True,1307.02,3.1699999999999999,63,True,True,True,True,Spa Centro
+Debbi Turtle_Spa Escalon,Debbi Turtle,False,1446.8,2.1200000000000001,50,True,False,True,True,Spa Escalon
+Debora MattiCCI_Spa Escalon,Debora MattiCCI,False,565.25,1.99,35,False,False,False,False,Spa Escalon
+Deeanne Tumility_Spa Escalon,Deeanne Tumility,False,916.44000000000005,1.02,22,False,True,False,True,Spa Escalon
+Delainey Keach_Spa Santa Tecla,Delainey Keach,False,2508.5900000000001,3.1299999999999999,38,False,True,True,True,Spa Santa Tecla
+Der Mileham_Spa Santa Tecla,Der Mileham,False,1542.3499999999999,2.4399999999999999,25,False,False,True,True,Spa Santa Tecla
+Diandra Youde_Spa Santa Tecla,Diandra Youde,False,1676.96,1.8100000000000001,60,False,False,False,True,Spa Santa Tecla
+Dinah Madrell_Spa Santa Tecla,Dinah Madrell,True,813.86000000000001,1.53,51,False,False,False,False,Spa Santa Tecla
+Donnie Gretham_Spa Santa Tecla,Donnie Gretham,False,1536.3299999999999,3.7599999999999998,44,False,False,False,False,Spa Santa Tecla
+Dorolisa Ronchetti_Spa Escalon,Dorolisa Ronchetti,False,1499.0999999999999,1.9399999999999999,39,False,False,False,False,Spa Escalon
+Doroteya Rookeby_Spa Santa Tecla,Doroteya Rookeby,False,597.66999999999996,1.6100000000000001,22,True,True,True,True,Spa Santa Tecla
+Dorree MacArte_Spa Escalon,Dorree MacArte,True,2371.8000000000002,3.4300000000000002,30,False,False,True,False,Spa Escalon
+Dorree Towey_Spa Escalon,Dorree Towey,True,790.04999999999995,2.7999999999999998,58,False,False,False,False,Spa Escalon
+Dorrie Wotherspoon_Spa Escalon,Dorrie Wotherspoon,True,829.26999999999998,1.52,61,True,False,True,False,Spa Escalon
+Drugi Enriquez_Spa Escalon,Drugi Enriquez,False,1748.8,3.7000000000000002,63,True,True,True,False,Spa Escalon
+Dur Farreil_Spa Santa Tecla,Dur Farreil,False,648.59000000000003,1.1799999999999999,62,False,False,True,True,Spa Santa Tecla
+Dusty Mariette_Spa Santa Tecla,Dusty Mariette,False,1784.05,3.2400000000000002,47,False,True,True,False,Spa Santa Tecla
+Earvin Fouracre_Spa Escalon,Earvin Fouracre,True,1909.21,3.2999999999999998,62,True,True,False,True,Spa Escalon
+Edan Danter_Spa Escalon,Edan Danter,True,2719.71,1.5900000000000001,36,False,False,False,False,Spa Escalon
+Editha Saddington_Spa Santa Tecla,Editha Saddington,False,2623.0599999999999,2.5299999999999998,26,True,True,False,False,Spa Santa Tecla
+Edlin Rimmer_Spa Escalon,Edlin Rimmer,False,1856.3800000000001,2.0899999999999999,44,False,True,True,True,Spa Escalon
+Elfreda Splevings_Spa Escalon,Elfreda Splevings,False,1616.96,1.76,31,True,False,False,False,Spa Escalon
+Elisha Ohanessian_Spa Escalon,Elisha Ohanessian,True,1276.5699999999999,2.3599999999999999,56,True,False,True,True,Spa Escalon
+Elora Demelt_Spa Escalon,Elora Demelt,True,2058.9699999999998,2.54,24,True,False,False,False,Spa Escalon
+Elora Rapper_Spa Escalon,Elora Rapper,True,1439.72,2.0699999999999998,42,False,True,True,False,Spa Escalon
+Elvira Jurczyk_Spa Escalon,Elvira Jurczyk,False,968.33000000000004,1.49,25,False,False,False,False,Spa Escalon
+Elysia Janas_Spa Escalon,Elysia Janas,True,2349.4400000000001,3.1800000000000002,32,False,True,True,False,Spa Escalon
+Emmalyn Duffus_Spa Escalon,Emmalyn Duffus,False,1093.76,1.1499999999999999,59,True,True,True,False,Spa Escalon
+Emmett Guess_Spa Escalon,Emmett Guess,True,1154.8,1.5600000000000001,47,False,True,True,True,Spa Escalon
+Ermengarde Gemson_Spa Santa Tecla,Ermengarde Gemson,False,823.88,1.5800000000000001,57,False,False,False,True,Spa Santa Tecla
+Esdras Warkup_Spa Santa Tecla,Esdras Warkup,False,2620.96,3.7599999999999998,44,False,True,False,False,Spa Santa Tecla
+Etheline Wolfenden_Spa Santa Tecla,Etheline Wolfenden,True,1157.1199999999999,1.22,31,True,True,False,True,Spa Santa Tecla
+Eugen Dumphry_Spa Escalon,Eugen Dumphry,True,947.88999999999999,1.0700000000000001,52,False,True,True,True,Spa Escalon
+Eustace Leyton_Spa Escalon,Eustace Leyton,True,2520.5900000000001,1.54,45,False,True,True,True,Spa Escalon
+Evie Wressell_Spa Escalon,Evie Wressell,True,2970.0999999999999,2.0899999999999999,53,True,False,False,False,Spa Escalon
+Farand Furnival_Spa Escalon,Farand Furnival,False,2846.8600000000001,2.1600000000000001,49,True,False,True,False,Spa Escalon
+Fidelia MacMorland_Spa Santa Tecla,Fidelia MacMorland,True,1117.53,3.5499999999999998,52,False,True,False,False,Spa Santa Tecla
+Filmore Lillecrap_Spa Escalon,Filmore Lillecrap,False,537.69000000000005,2.7599999999999998,53,False,False,False,False,Spa Escalon
+Fiorenze Larratt_Spa Santa Tecla,Fiorenze Larratt,False,929.92999999999995,3,27,True,False,True,True,Spa Santa Tecla
+Florencia Farlowe_Spa Santa Tecla,Florencia Farlowe,False,1216.2,2.4100000000000001,43,False,False,True,True,Spa Santa Tecla
+Florri Ellson_Spa Escalon,Florri Ellson,True,2192.02,3.7400000000000002,37,False,True,False,True,Spa Escalon
+Francklin Druce_Spa Santa Tecla,Francklin Druce,False,1250.4200000000001,3.04,27,False,True,True,True,Spa Santa Tecla
+Franz Enderby_Spa Escalon,Franz Enderby,True,1924.1800000000001,2.5,52,False,False,False,True,Spa Escalon
+Fredrika Lawrenceson_Spa Santa Tecla,Fredrika Lawrenceson,False,2199.04,1.5900000000000001,39,False,False,False,False,Spa Santa Tecla
+Gabrila MacAiline_Spa Escalon,Gabrila MacAiline,False,2676.46,3.3799999999999999,37,False,False,True,False,Spa Escalon
+Gale Gatheridge_Spa Santa Tecla,Gale Gatheridge,True,1408.3800000000001,3.6899999999999999,56,False,True,False,False,Spa Santa Tecla
+Gardie Pottell_Spa Santa Tecla,Gardie Pottell,False,2702.6199999999999,1.3600000000000001,40,False,True,False,False,Spa Santa Tecla
+Garnette Jacobovitch_Spa Santa Tecla,Garnette Jacobovitch,False,2512.7399999999998,3.2200000000000002,24,False,False,False,False,Spa Santa Tecla
+Garrett Douberday_Spa Escalon,Garrett Douberday,True,1922.9000000000001,1.2,52,False,False,True,False,Spa Escalon
+Garwood Crosham_Spa Centro,Garwood Crosham,True,2128.2199999999998,1.28,26,True,False,False,False,Spa Centro
+Gayleen Blissett_Spa Santa Tecla,Gayleen Blissett,False,391.44999999999999,3.6200000000000001,35,True,False,True,False,Spa Santa Tecla
+Genevieve Helwig_Spa Santa Tecla,Genevieve Helwig,False,1264.1500000000001,2.25,59,False,True,False,False,Spa Santa Tecla
+Geraldine Shoosmith_Spa Escalon,Geraldine Shoosmith,True,2431.9499999999998,3.0299999999999998,28,True,False,True,False,Spa Escalon
+Gerry De Souza_Spa Santa Tecla,Gerry De Souza,True,703.89999999999998,2.1499999999999999,61,False,False,False,True,Spa Santa Tecla
+Gillian Dudin_Spa Escalon,Gillian Dudin,True,2359.0300000000002,2.3700000000000001,38,False,True,False,True,Spa Escalon
+Gilly Guihen_Spa Escalon,Gilly Guihen,True,1677.0999999999999,1.3300000000000001,50,False,False,True,True,Spa Escalon
+Giselbert Ashford_Spa Centro,Giselbert Ashford,False,1743.8099999999999,2.0099999999999998,39,True,True,False,True,Spa Centro
+Gladys Cardenas_Spa Santa Tecla,Gladys Cardenas,False,2926.23,1.02,29,False,True,True,True,Spa Santa Tecla
+Gracie McDonagh_Spa Escalon,Gracie McDonagh,True,2929.96,3.8500000000000001,63,False,False,False,False,Spa Escalon
+Graehme Totman_Spa Santa Tecla,Graehme Totman,False,1016.21,1.8600000000000001,21,False,False,False,True,Spa Santa Tecla
+Gus Gilling_Spa Escalon,Gus Gilling,False,1304.6500000000001,2.0699999999999998,26,True,True,False,False,Spa Escalon
+Gwenneth Wabey_Spa Santa Tecla,Gwenneth Wabey,True,2476.4299999999998,1.3999999999999999,21,False,False,False,True,Spa Santa Tecla
+Hallie Edlington_Spa Santa Tecla,Hallie Edlington,False,1856.95,2.4100000000000001,53,True,False,False,False,Spa Santa Tecla
+Hamnet Lindenberg_Spa Centro,Hamnet Lindenberg,False,1577.9300000000001,2.4399999999999999,62,True,True,True,False,Spa Centro
+Harri Haps_Spa Santa Tecla,Harri Haps,False,1763.8299999999999,2.4300000000000002,44,True,True,True,False,Spa Santa Tecla
+Hartwell Baylie_Spa Santa Tecla,Hartwell Baylie,False,2941.1199999999999,2.0600000000000001,41,False,True,False,False,Spa Santa Tecla
+Heidi Lambell_Spa Escalon,Heidi Lambell,True,1589.54,1.9399999999999999,33,True,False,False,True,Spa Escalon
+Henderson Fazzioli_Spa Santa Tecla,Henderson Fazzioli,False,993.88999999999999,3.6600000000000001,33,False,True,False,True,Spa Santa Tecla
+Henrie Kezor_Spa Santa Tecla,Henrie Kezor,False,2804.27,2.3500000000000001,47,False,False,False,True,Spa Santa Tecla
+Henryetta Battleson_Spa Escalon,Henryetta Battleson,True,1276.0699999999999,3.7799999999999998,43,True,False,False,False,Spa Escalon
+Hew Poytress_Spa Santa Tecla,Hew Poytress,False,664.08000000000004,2.3999999999999999,29,False,True,False,True,Spa Santa Tecla
+Hillary Hartop_Spa Centro,Hillary Hartop,True,2164.6599999999999,3.23,52,True,False,False,False,Spa Centro
+Horacio Deshorts_Spa Escalon,Horacio Deshorts,False,1970.5799999999999,2.7400000000000002,41,False,False,False,True,Spa Escalon
+Ilysa Cretney_Spa Escalon,Ilysa Cretney,False,1901.01,2.48,23,False,False,False,False,Spa Escalon
+Inesita Somersett_Spa Santa Tecla,Inesita Somersett,False,425.91000000000003,1.8999999999999999,60,False,False,False,True,Spa Santa Tecla
+Isidor Doutch_Spa Escalon,Isidor Doutch,True,1891.9200000000001,3.79,22,True,False,False,False,Spa Escalon
+Ive Pettigree_Spa Escalon,Ive Pettigree,True,2204.5100000000002,3.52,28,True,False,False,True,Spa Escalon
+Jacquelynn Leavy_Spa Escalon,Jacquelynn Leavy,False,2276.3000000000002,3.1800000000000002,47,False,False,True,True,Spa Escalon
+Jakob Mc Carrick_Spa Santa Tecla,Jakob Mc Carrick,False,401.17000000000002,1.77,40,False,False,True,True,Spa Santa Tecla
+Janith Vakhonin_Spa Centro,Janith Vakhonin,True,814.90999999999997,2.9100000000000001,33,False,True,True,False,Spa Centro
+Jarred Colvine_Spa Escalon,Jarred Colvine,False,635.53999999999996,3.04,33,False,False,False,False,Spa Escalon
+Jasmina Cardillo_Spa Escalon,Jasmina Cardillo,True,1402.1900000000001,3.4300000000000002,61,False,False,True,False,Spa Escalon
+Jaymie McGreil_Spa Escalon,Jaymie McGreil,True,2087.8600000000001,2.9100000000000001,62,True,False,True,True,Spa Escalon
+Jenilee Aronov_Spa Escalon,Jenilee Aronov,False,466.32999999999998,3.7400000000000002,58,True,True,False,True,Spa Escalon
+Jennilee Bambury_Spa Santa Tecla,Jennilee Bambury,False,290.19,3.4199999999999999,39,False,True,True,False,Spa Santa Tecla
+Jeri Blacklawe_Spa Escalon,Jeri Blacklawe,True,1362.76,2.4500000000000002,62,True,False,False,True,Spa Escalon
+Jerry Ausiello_Spa Escalon,Jerry Ausiello,True,654.28999999999996,1.9099999999999999,39,True,True,True,False,Spa Escalon
+Jess Varley_Spa Escalon,Jess Varley,False,712.35000000000002,2.2400000000000002,65,False,True,False,False,Spa Escalon
+Jessica Dudding_Spa Centro,Jessica Dudding,True,988.99000000000001,3.7200000000000002,47,True,True,False,True,Spa Centro
+Jessica Kuhn_Spa Centro,Jessica Kuhn,True,1964.1099999999999,2.2999999999999998,51,True,True,True,False,Spa Centro
+Jilleen Peare_Spa Escalon,Jilleen Peare,True,2342.73,1.29,60,False,True,False,False,Spa Escalon
+Jimmie Akker_Spa Santa Tecla,Jimmie Akker,False,2620.52,1.6499999999999999,51,False,False,False,True,Spa Santa Tecla
+Jobi McIntee_Spa Escalon,Jobi McIntee,True,543.21000000000004,3.6499999999999999,33,True,True,True,True,Spa Escalon
+Joel Raftery_Spa Escalon,Joel Raftery,False,1119.9300000000001,1.1899999999999999,33,True,False,False,True,Spa Escalon
+Johna Phillippo_Spa Escalon,Johna Phillippo,True,1889.8699999999999,3.7599999999999998,34,True,False,True,False,Spa Escalon
+Jonell Winterscale_Spa Escalon,Jonell Winterscale,False,1483.01,1.79,47,False,True,False,True,Spa Escalon
+Josefina Deller_Spa Santa Tecla,Josefina Deller,False,2158.4099999999999,1.6100000000000001,26,True,False,False,False,Spa Santa Tecla
+Justin Agass_Spa Escalon,Justin Agass,True,291.91000000000003,3.04,30,False,False,False,False,Spa Escalon
+Kalvin Alessandone_Spa Escalon,Kalvin Alessandone,True,766.15999999999997,3.8599999999999999,54,False,True,True,False,Spa Escalon
+Karen Patrone_Spa Santa Tecla,Karen Patrone,False,1139.79,2.02,51,False,True,False,False,Spa Santa Tecla
+Katheryn Dungee_Spa Santa Tecla,Katheryn Dungee,True,856.51999999999998,1.98,59,False,False,False,False,Spa Santa Tecla
+Kathye Dank_Spa Santa Tecla,Kathye Dank,False,2659.9400000000001,2.5600000000000001,49,False,False,False,True,Spa Santa Tecla
+Katuscha Mepham_Spa Santa Tecla,Katuscha Mepham,True,2622.9400000000001,2.5299999999999998,33,False,True,False,False,Spa Santa Tecla
+Kaylee Matantsev_Spa Santa Tecla,Kaylee Matantsev,False,1738.6500000000001,1.3999999999999999,32,False,True,False,True,Spa Santa Tecla
+Kaylil Borrie_Spa Centro,Kaylil Borrie,False,2890.23,1.3500000000000001,37,True,True,False,False,Spa Centro
+Kelby Canwell_Spa Centro,Kelby Canwell,True,1183.9100000000001,2.73,32,True,True,True,False,Spa Centro
+Ken Capaldo_Spa Escalon,Ken Capaldo,False,2077.1500000000001,2.0899999999999999,47,False,True,True,False,Spa Escalon
+Ker Prest_Spa Escalon,Ker Prest,False,2650.23,3.8599999999999999,53,False,True,True,False,Spa Escalon
+Kerstin Courteney_Spa Santa Tecla,Kerstin Courteney,True,542.53999999999996,2.0499999999999998,45,False,False,False,False,Spa Santa Tecla
+Kevina Mayou_Spa Centro,Kevina Mayou,False,1614.6199999999999,3.8900000000000001,26,False,True,False,False,Spa Centro
+Kirby Housam_Spa Escalon,Kirby Housam,False,2101.5599999999999,3.1099999999999999,52,False,False,False,True,Spa Escalon
+Koenraad Marchiso_Spa Centro,Koenraad Marchiso,True,699.13999999999999,2.6400000000000001,34,True,False,True,False,Spa Centro
+Koo Rottger_Spa Escalon,Koo Rottger,True,1660.79,2.54,31,False,True,True,True,Spa Escalon
+Kristen Cassin_Spa Escalon,Kristen Cassin,True,1092.45,3.8599999999999999,50,True,False,True,True,Spa Escalon
+Kristy Laffranconi_Spa Escalon,Kristy Laffranconi,True,1000.71,2.54,52,False,False,False,True,Spa Escalon
+Lacey Farfalameev_Spa Santa Tecla,Lacey Farfalameev,False,504.81,1.49,63,True,False,False,True,Spa Santa Tecla
+Lari Richemond_Spa Santa Tecla,Lari Richemond,False,1626.72,3.77,37,False,False,False,False,Spa Santa Tecla
+Laura Holbie_Spa Santa Tecla,Laura Holbie,True,1767.3,1.45,51,False,True,False,False,Spa Santa Tecla
+Laural Blakesley_Spa Santa Tecla,Laural Blakesley,False,2228.73,2.4300000000000002,32,False,True,False,True,Spa Santa Tecla
+Lauren Korba_Spa Escalon,Lauren Korba,True,292.31,2.3999999999999999,55,True,True,True,False,Spa Escalon
+Lavena Francisco_Spa Santa Tecla,Lavena Francisco,False,981.95000000000005,2.0499999999999998,40,False,False,False,False,Spa Santa Tecla
+Lavinia Iddiens_Spa Escalon,Lavinia Iddiens,True,2897.27,1.55,55,True,False,True,False,Spa Escalon
+Leeanne Fawke_Spa Escalon,Leeanne Fawke,True,1146.1300000000001,1.3700000000000001,26,True,False,False,False,Spa Escalon
+Leighton Lydiatt_Spa Centro,Leighton Lydiatt,True,922.49000000000001,3.2000000000000002,59,True,True,False,True,Spa Centro
+Leoline Dofty_Spa Escalon,Leoline Dofty,True,1150.52,1.79,35,False,False,True,True,Spa Escalon
+Levon Bannon_Spa Santa Tecla,Levon Bannon,False,2684.3800000000001,2.23,58,False,True,True,False,Spa Santa Tecla
+Lexine Kinner_Spa Escalon,Lexine Kinner,True,2624.1199999999999,1.73,47,False,True,True,True,Spa Escalon
+Licha McConnulty_Spa Santa Tecla,Licha McConnulty,True,1164.5899999999999,3.1800000000000002,45,False,False,True,True,Spa Santa Tecla
+Lilia Goomes_Spa Centro,Lilia Goomes,True,1436.97,1.71,48,True,True,False,False,Spa Centro
+Lissy Blenkinsop_Spa Escalon,Lissy Blenkinsop,True,2052.1700000000001,3.46,23,True,True,False,False,Spa Escalon
+Lonna Sired_Spa Santa Tecla,Lonna Sired,True,1891.8800000000001,2.6600000000000001,25,False,False,False,False,Spa Santa Tecla
+Lowrance Dowzell_Spa Santa Tecla,Lowrance Dowzell,False,2376.5700000000002,1.5900000000000001,34,False,False,False,True,Spa Santa Tecla
+Maddi Bufton_Spa Escalon,Maddi Bufton,False,1658.6199999999999,1.26,30,True,False,False,True,Spa Escalon
+Maddy Ruvel_Spa Santa Tecla,Maddy Ruvel,False,831.55999999999995,1.1100000000000001,40,False,True,False,True,Spa Santa Tecla
+Mandie Gyse_Spa Escalon,Mandie Gyse,True,2828.5700000000002,1.25,58,False,True,True,False,Spa Escalon
+Mano McOwen_Spa Escalon,Mano McOwen,False,2689.3000000000002,1.3500000000000001,32,False,True,True,True,Spa Escalon
+Marchelle Withrop_Spa Santa Tecla,Marchelle Withrop,False,663.26999999999998,1.27,22,True,True,True,True,Spa Santa Tecla
+Marge Hylton_Spa Escalon,Marge Hylton,False,1098.9400000000001,2.0699999999999998,26,False,False,False,True,Spa Escalon
+Marijn MacCambridge_Spa Escalon,Marijn MacCambridge,False,1782.95,2.0800000000000001,36,True,True,True,False,Spa Escalon
+Marion Cutforth_Spa Santa Tecla,Marion Cutforth,True,2442.1300000000001,2.3599999999999999,61,False,False,False,False,Spa Santa Tecla
+Marion Lineker_Spa Santa Tecla,Marion Lineker,False,2180.4000000000001,3.6299999999999999,23,False,True,False,True,Spa Santa Tecla
+Marissa Szwarc_Spa Escalon,Marissa Szwarc,True,1331.02,1.48,47,True,False,True,False,Spa Escalon
+Marketa Blades_Spa Escalon,Marketa Blades,False,1363.23,3.6600000000000001,37,True,False,False,True,Spa Escalon
+Marna Winspeare_Spa Santa Tecla,Marna Winspeare,False,296.19,1.8799999999999999,54,False,False,False,True,Spa Santa Tecla
+Maura Rayworth_Spa Santa Tecla,Maura Rayworth,True,2149.5,1.02,54,False,True,True,False,Spa Santa Tecla
+Max Christoffersen_Spa Escalon,Max Christoffersen,False,774.04999999999995,2.7200000000000002,29,True,True,True,False,Spa Escalon
+Melicent Dutson_Spa Escalon,Melicent Dutson,True,557.96000000000004,2.5099999999999998,40,False,False,True,True,Spa Escalon
+Mellicent Cross_Spa Santa Tecla,Mellicent Cross,False,362.77999999999997,3,58,False,False,False,True,Spa Santa Tecla
+Mendie Blazej_Spa Escalon,Mendie Blazej,False,2880.1700000000001,2.75,62,False,False,True,True,Spa Escalon
+Michelina Moyle_Spa Escalon,Michelina Moyle,False,2828.9000000000001,2.6400000000000001,27,False,False,True,False,Spa Escalon
+Mil McGrotty_Spa Escalon,Mil McGrotty,False,963.78999999999996,2.1400000000000001,39,False,False,True,True,Spa Escalon
+Mort Featherstonhalgh_Spa Escalon,Mort Featherstonhalgh,False,2712.5599999999999,2.6499999999999999,37,True,False,True,False,Spa Escalon
+Myca Tennet_Spa Santa Tecla,Myca Tennet,False,1040.9200000000001,1.29,44,False,False,False,True,Spa Santa Tecla
+Myriam Budgen_Spa Escalon,Myriam Budgen,True,2538,2.46,58,False,False,True,False,Spa Escalon
+Nada Lammers_Spa Santa Tecla,Nada Lammers,False,1884.8099999999999,3.8599999999999999,40,False,False,False,True,Spa Santa Tecla
+Nadean Flaws_Spa Escalon,Nadean Flaws,False,1985.96,2.8900000000000001,42,False,True,False,True,Spa Escalon
+Nancie Barnwall_Spa Santa Tecla,Nancie Barnwall,False,1725.03,1.28,32,False,True,False,True,Spa Santa Tecla
+Neal Le feaver_Spa Santa Tecla,Neal Le feaver,False,1061.3900000000001,2.4700000000000002,49,False,False,False,False,Spa Santa Tecla
+Nevins Devany_Spa Santa Tecla,Nevins Devany,False,1454.02,3.5299999999999998,38,False,False,False,True,Spa Santa Tecla
+Niall Armytage_Spa Escalon,Niall Armytage,True,1710.8499999999999,3.4500000000000002,31,True,False,False,True,Spa Escalon
+Nicolle Vivian_Spa Escalon,Nicolle Vivian,False,2033.77,3.1800000000000002,34,True,True,False,False,Spa Escalon
+Nita Billion_Spa Santa Tecla,Nita Billion,False,2963.04,1.6599999999999999,63,False,True,True,False,Spa Santa Tecla
+Noelani Trimmell_Spa Escalon,Noelani Trimmell,True,2913.8499999999999,1.3200000000000001,49,True,False,False,True,Spa Escalon
+Norby Rawle_Spa Santa Tecla,Norby Rawle,False,2907.8200000000002,2.1699999999999999,21,False,True,False,True,Spa Santa Tecla
+Norri Bernli_Spa Escalon,Norri Bernli,False,2694.9200000000001,2.21,28,True,True,False,True,Spa Escalon
+Odella Snook_Spa Escalon,Odella Snook,True,273.81999999999999,2.02,24,False,True,False,True,Spa Escalon
+Olive Greasty_Spa Santa Tecla,Olive Greasty,False,628.74000000000001,2.98,44,False,True,False,True,Spa Santa Tecla
+Olivia Lembcke_Spa Escalon,Olivia Lembcke,True,2903.6199999999999,1.23,28,False,False,False,False,Spa Escalon
+Onida Appleby_Spa Escalon,Onida Appleby,True,821.34000000000003,3.48,22,False,False,False,False,Spa Escalon
+Oralia Hickinbottom_Spa Escalon,Oralia Hickinbottom,True,736.04999999999995,2.5899999999999999,24,True,True,False,True,Spa Escalon
+Ortensia Kruschev_Spa Centro,Ortensia Kruschev,True,1671.9300000000001,2.1699999999999999,58,True,True,False,True,Spa Centro
+Pansy Sawter_Spa Escalon,Pansy Sawter,False,332.87,3.6099999999999999,51,False,True,True,False,Spa Escalon
+Pattin Dorrington_Spa Centro,Pattin Dorrington,False,2912.0900000000001,3.7000000000000002,55,True,True,False,False,Spa Centro
+Paulita Bastiman_Spa Escalon,Paulita Bastiman,False,1344.72,2.54,38,False,False,True,False,Spa Escalon
+Peggi Tucknott_Spa Escalon,Peggi Tucknott,False,2228.3800000000001,1.6599999999999999,39,True,False,True,False,Spa Escalon
+Peggy Bispham_Spa Escalon,Peggy Bispham,True,1017.27,1.6399999999999999,47,True,True,False,False,Spa Escalon
+Persis Loidl_Spa Escalon,Persis Loidl,False,1620.7,1.8600000000000001,58,True,True,True,True,Spa Escalon
+Pete Gillingham_Spa Escalon,Pete Gillingham,False,1818.79,2.54,46,True,True,True,False,Spa Escalon
+Pier Oswell_Spa Escalon,Pier Oswell,True,1513.74,3.29,27,False,True,False,False,Spa Escalon
+Pooh Halligan_Spa Escalon,Pooh Halligan,True,952.16999999999996,2.9300000000000002,24,False,False,True,False,Spa Escalon
+Pris Van Vuuren_Spa Santa Tecla,Pris Van Vuuren,False,512.40999999999997,1.5800000000000001,58,True,True,False,False,Spa Santa Tecla
+Querida Raincin_Spa Escalon,Querida Raincin,True,2826.7600000000002,3.2400000000000002,25,False,True,False,True,Spa Escalon
+Quincey Eouzan_Spa Escalon,Quincey Eouzan,False,691.89999999999998,3.4900000000000002,64,False,False,False,False,Spa Escalon
+Rawley Burchnall_Spa Santa Tecla,Rawley Burchnall,False,2405.77,2.9399999999999999,65,False,True,False,True,Spa Santa Tecla
+Ray Duquesnay_Spa Santa Tecla,Ray Duquesnay,False,1650.2,1.1399999999999999,65,False,False,False,True,Spa Santa Tecla
+Raynell Killough_Spa Escalon,Raynell Killough,True,1985.0599999999999,2.1099999999999999,55,False,True,True,True,Spa Escalon
+Reagan Rassell_Spa Santa Tecla,Reagan Rassell,False,1934.5699999999999,2.04,37,False,False,False,True,Spa Santa Tecla
+Reg Nelmes_Spa Centro,Reg Nelmes,True,2886.75,2.9700000000000002,61,True,True,True,False,Spa Centro
+Reinhold Rubberts_Spa Escalon,Reinhold Rubberts,True,2263.5100000000002,1.76,28,False,False,False,False,Spa Escalon
+Renae Lammers_Spa Escalon,Renae Lammers,True,2080.7399999999998,2.3100000000000001,30,True,True,False,True,Spa Escalon
+Renaud Broadnicke_Spa Santa Tecla,Renaud Broadnicke,False,872.00999999999999,2.46,22,False,True,True,True,Spa Santa Tecla
+Renault Morman_Spa Santa Tecla,Renault Morman,False,449.60000000000002,2.1000000000000001,34,True,False,True,False,Spa Santa Tecla
+Rois Bust_Spa Santa Tecla,Rois Bust,False,1599.55,2.5299999999999998,26,True,True,False,True,Spa Santa Tecla
+Ronica Jermy_Spa Santa Tecla,Ronica Jermy,False,1592.9000000000001,2.6200000000000001,35,False,True,False,False,Spa Santa Tecla
+Roseline Kildale_Spa Escalon,Roseline Kildale,True,349.05000000000001,3.7799999999999998,53,False,True,True,True,Spa Escalon
+Rosemarie Harwell_Spa Escalon,Rosemarie Harwell,True,2703.9200000000001,3.1299999999999999,38,True,False,True,True,Spa Escalon
+Roxanne Jerrim_Spa Santa Tecla,Roxanne Jerrim,False,2257.6900000000001,1.8899999999999999,58,False,False,False,False,Spa Santa Tecla
+Ruben Belin_Spa Escalon,Ruben Belin,True,261.19999999999999,3.25,44,True,False,True,True,Spa Escalon
+Ruth Scothorne_Spa Santa Tecla,Ruth Scothorne,False,1517.28,3.1299999999999999,31,False,False,False,False,Spa Santa Tecla
+Ryley Bodleigh_Spa Escalon,Ryley Bodleigh,False,1334.45,1.76,64,False,True,True,True,Spa Escalon
+Salomon Dechelette_Spa Santa Tecla,Salomon Dechelette,False,761.08000000000004,3.3500000000000001,43,False,True,False,True,Spa Santa Tecla
+Sanford Gregoretti_Spa Escalon,Sanford Gregoretti,True,2510.02,3.4100000000000001,51,True,False,False,False,Spa Escalon
+Saul Cass_Spa Santa Tecla,Saul Cass,True,2856.3499999999999,3.5699999999999998,25,False,False,False,True,Spa Santa Tecla
+Shannon Tregensoe_Spa Escalon,Shannon Tregensoe,True,410.49000000000001,3.8300000000000001,37,False,True,True,False,Spa Escalon
+Shanta Dewdney_Spa Escalon,Shanta Dewdney,False,1781.9200000000001,2.6299999999999999,61,False,False,False,False,Spa Escalon
+Sharai Trail_Spa Santa Tecla,Sharai Trail,False,1085.1400000000001,2.2799999999999998,57,True,True,False,True,Spa Santa Tecla
+Sharona Orkney_Spa Santa Tecla,Sharona Orkney,False,2839.9200000000001,3.1800000000000002,30,False,False,False,False,Spa Santa Tecla
+Shaun Czajkowski_Spa Santa Tecla,Shaun Czajkowski,True,2892.52,2.3599999999999999,24,False,False,False,True,Spa Santa Tecla
+Sheffy Ferreras_Spa Escalon,Sheffy Ferreras,True,2985.8200000000002,3.6499999999999999,59,False,True,True,True,Spa Escalon
+Shellie Lytle_Spa Escalon,Shellie Lytle,False,809.55999999999995,2.3500000000000001,34,False,True,True,True,Spa Escalon
+Sheree Prendeguest_Spa Santa Tecla,Sheree Prendeguest,False,2725.46,1.1799999999999999,43,False,False,False,False,Spa Santa Tecla
+Shirlene Holbarrow_Spa Escalon,Shirlene Holbarrow,True,2276.8000000000002,3.71,38,True,True,False,False,Spa Escalon
+Sid Beachamp_Spa Santa Tecla,Sid Beachamp,False,784.07000000000005,1.8899999999999999,37,True,True,False,False,Spa Santa Tecla
+Sid Sifflett_Spa Santa Tecla,Sid Sifflett,False,2419.2600000000002,2.96,28,False,False,False,True,Spa Santa Tecla
+Silvano Revely_Spa Santa Tecla,Silvano Revely,True,1984.97,1.24,49,False,True,False,True,Spa Santa Tecla
+Simmonds Pennazzi_Spa Santa Tecla,Simmonds Pennazzi,False,1153.21,2.9399999999999999,45,False,True,False,False,Spa Santa Tecla
+Sorcha Triggs_Spa Santa Tecla,Sorcha Triggs,False,2708.6700000000001,1.1200000000000001,39,False,False,True,True,Spa Santa Tecla
+Stefanie Jodlkowski_Spa Escalon,Stefanie Jodlkowski,True,1664.47,3.3399999999999999,56,True,True,False,False,Spa Escalon
+Stesha Haucke_Spa Escalon,Stesha Haucke,False,806.41999999999996,2.5099999999999998,57,False,True,False,True,Spa Escalon
+Suki Di Roberto_Spa Escalon,Suki Di Roberto,False,1976.3599999999999,3.46,39,False,True,False,False,Spa Escalon
+Sunny Dwine_Spa Santa Tecla,Sunny Dwine,False,470.83999999999997,2.8700000000000001,54,False,False,False,True,Spa Santa Tecla
+Susanne Rymell_Spa Santa Tecla,Susanne Rymell,True,790.30999999999995,1.3200000000000001,58,False,True,False,False,Spa Santa Tecla
+Susy La Grange_Spa Escalon,Susy La Grange,True,967.25,3.7400000000000002,29,True,False,False,False,Spa Escalon
+Sybila Anney_Spa Escalon,Sybila Anney,False,1574.51,3.3700000000000001,62,False,True,False,False,Spa Escalon
+Taber Stainland_Spa Santa Tecla,Taber Stainland,False,1658.1800000000001,2.1699999999999999,39,False,False,True,True,Spa Santa Tecla
+Tait Serfati_Spa Escalon,Tait Serfati,True,1608.55,1.1899999999999999,53,False,False,True,False,Spa Escalon
+Talbert Conradsen_Spa Escalon,Talbert Conradsen,False,828.28999999999996,3.0899999999999999,60,False,True,True,False,Spa Escalon
+Talya Ownsworth_Spa Escalon,Talya Ownsworth,False,1866.6500000000001,1.3600000000000001,21,True,False,True,True,Spa Escalon
+Talyah Venmore_Spa Santa Tecla,Talyah Venmore,True,2718.5100000000002,1.1200000000000001,61,False,False,False,False,Spa Santa Tecla
+Tami Dunnet_Spa Escalon,Tami Dunnet,False,373.75999999999999,1.8600000000000001,25,True,False,True,True,Spa Escalon
+Terence Whissell_Spa Santa Tecla,Terence Whissell,False,1536.6500000000001,1.6200000000000001,46,True,False,True,True,Spa Santa Tecla
+Thayne D'Enrico_Spa Escalon,Thayne D'Enrico,False,856.63,3.4900000000000002,57,True,False,True,False,Spa Escalon
+Thekla Shelmardine_Spa Escalon,Thekla Shelmardine,False,1329.54,2.4399999999999999,31,True,False,True,False,Spa Escalon
+Thoma McPeake_Spa Escalon,Thoma McPeake,True,2363.21,1.3300000000000001,33,False,True,True,True,Spa Escalon
+Thorn Targe_Spa Santa Tecla,Thorn Targe,True,1391.73,3.8300000000000001,35,False,True,False,True,Spa Santa Tecla
+Tiffanie Alldred_Spa Escalon,Tiffanie Alldred,False,1678.0799999999999,1.45,42,True,True,True,False,Spa Escalon
+Tilda Gludor_Spa Escalon,Tilda Gludor,True,2747.2399999999998,2.0600000000000001,49,True,False,False,False,Spa Escalon
+Tillie Frowd_Spa Santa Tecla,Tillie Frowd,False,2683.4200000000001,3.6000000000000001,61,False,False,False,False,Spa Santa Tecla
+Tom Greenstreet_Spa Santa Tecla,Tom Greenstreet,True,2997.1100000000001,2.5899999999999999,44,False,True,False,True,Spa Santa Tecla
+Tomkin Stickles_Spa Centro,Tomkin Stickles,True,2555.23,1.9399999999999999,21,True,True,False,False,Spa Centro
+Tommy Cunnah_Spa Santa Tecla,Tommy Cunnah,False,1059.8099999999999,2.3900000000000001,61,False,False,False,True,Spa Santa Tecla
+Tommy Matiewe_Spa Santa Tecla,Tommy Matiewe,False,1447.3499999999999,3.46,44,False,True,False,True,Spa Santa Tecla
+Torre Redwing_Spa Escalon,Torre Redwing,False,2526.4499999999998,3.6499999999999999,23,False,True,False,False,Spa Escalon
+Torrence Brickham_Spa Escalon,Torrence Brickham,False,644.60000000000002,1.6899999999999999,46,False,False,True,False,Spa Escalon
+Tracee Blaydon_Spa Escalon,Tracee Blaydon,True,673.91999999999996,3.5099999999999998,51,True,False,False,False,Spa Escalon
+Trip Vost_Spa Centro,Trip Vost,True,772.08000000000004,1.74,52,True,True,False,False,Spa Centro
+Tristan Peyro_Spa Santa Tecla,Tristan Peyro,False,2283.75,3.4399999999999999,51,False,False,True,True,Spa Santa Tecla
+Ugo Fromant_Spa Escalon,Ugo Fromant,True,2098.52,3.0899999999999999,22,False,True,False,False,Spa Escalon
+Veradis De Mattia_Spa Santa Tecla,Veradis De Mattia,False,2253.1500000000001,2.6600000000000001,45,False,True,False,False,Spa Santa Tecla
+Verena Tregoning_Spa Santa Tecla,Verena Tregoning,False,269.86000000000001,2.1699999999999999,22,False,False,False,False,Spa Santa Tecla
+Vivianna Bielfelt_Spa Santa Tecla,Vivianna Bielfelt,False,1509.6900000000001,3.3500000000000001,53,False,True,False,True,Spa Santa Tecla
+Wade Crowne_Spa Santa Tecla,Wade Crowne,False,2383.5700000000002,3.1000000000000001,40,False,True,False,False,Spa Santa Tecla
+Wallas Baudin_Spa Santa Tecla,Wallas Baudin,False,1198.3199999999999,3.8300000000000001,31,False,False,False,False,Spa Santa Tecla
+Wanda Micheli_Spa Centro,Wanda Micheli,True,977.44000000000005,1.3700000000000001,50,False,True,False,False,Spa Centro
+Wanids Cowhig_Spa Escalon,Wanids Cowhig,True,796.11000000000001,3.2200000000000002,63,True,True,False,False,Spa Escalon
+Warner Pedrielli_Spa Santa Tecla,Warner Pedrielli,False,2306.2800000000002,3.7599999999999998,45,False,True,True,False,Spa Santa Tecla
+Wendye Carthy_Spa Escalon,Wendye Carthy,False,1591.9400000000001,2.77,58,False,True,True,False,Spa Escalon
+Willi Ringwood_Spa Escalon,Willi Ringwood,False,2726.27,2.8900000000000001,38,True,True,True,False,Spa Escalon
+Willow Rigg_Spa Escalon,Willow Rigg,False,1520.55,2.3300000000000001,24,True,False,False,True,Spa Escalon
+Wilma Coyett_Spa Santa Tecla,Wilma Coyett,False,403.63,1.3400000000000001,57,False,True,False,False,Spa Santa Tecla
+Winnifred Freake_Spa Escalon,Winnifred Freake,True,2630.8600000000001,3.02,63,False,True,False,False,Spa Escalon
+Winona Emmins_Spa Escalon,Winona Emmins,True,266.20999999999998,1.5800000000000001,58,False,True,True,True,Spa Escalon
+Wolfy Charters_Spa Escalon,Wolfy Charters,False,2126.4099999999999,3.6000000000000001,36,False,False,True,True,Spa Escalon
+Woodie Espinet_Spa Escalon,Woodie Espinet,False,1217.1700000000001,1.1799999999999999,31,False,False,True,False,Spa Escalon
+Wyatt Keyte_Spa Centro,Wyatt Keyte,True,1511.78,2.0800000000000001,41,False,False,False,False,Spa Centro
+Yasmeen Ferfulle_Spa Centro,Yasmeen Ferfulle,True,2261.79,3.0099999999999998,30,False,True,False,False,Spa Centro
+Ysabel Haste_Spa Santa Tecla,Ysabel Haste,False,1891.0599999999999,1.73,45,False,True,False,False,Spa Santa Tecla
+Zacharie Setchfield_Spa Santa Tecla,Zacharie Setchfield,False,726.47000000000003,1.8100000000000001,37,False,False,False,True,Spa Santa Tecla
+Zacherie Haldenby_Spa Escalon,Zacherie Haldenby,True,924.19000000000005,2.1899999999999999,45,True,False,True,True,Spa Escalon
+Zane Paniman_Spa Escalon,Zane Paniman,True,1661.21,1.4399999999999999,43,False,True,True,False,Spa Escalon
